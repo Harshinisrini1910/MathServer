@@ -77,7 +77,7 @@ padding-top: 20px;
 <body>
 <div class="edge">
 <div class="box">
-<h2>MAHALAKSHMI R (212223230116)</h2>
+<h2>HARSHINI S (212221220018)</h2>
 <h1>Surface Area of cylinder</h1>
 <form method="POST">
 {% csrf_token %}
@@ -134,11 +134,13 @@ urlpatterns = [
 ```
 
 ## SERVER SIDE PROCESSING:
-![Screenshot 2024-04-08 at 11 32 11 AM](https://github.com/Harshinisrini1910/MathServer/assets/161415847/e58fc592-7946-426d-afb7-06ee18b74eec)
+![Screenshot 2024-04-10 at 9 39 24 AM](https://github.com/Harshinisrini1910/MathServer/assets/161415847/56183c32-da60-4761-8ac4-b650cfffd7c4)
+
 
 
 ## HOMEPAGE:
-![Screenshot 2024-04-08 at 11 33 38 AM](https://github.com/Harshinisrini1910/MathServer/assets/161415847/15563871-e613-4120-b4c8-512c51753060)
+![Screenshot 2024-04-10 at 9 38 47 AM](https://github.com/Harshinisrini1910/MathServer/assets/161415847/7de34cbd-3c6b-4bc6-a6d7-80d8845e5cad)
+
 
 
 ## RESULT:
