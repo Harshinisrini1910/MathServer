@@ -30,10 +30,8 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 ## PROGRAM :
-
 ```
 math.html
-
 <html>
 <head>
 <meta charset='utf-8'>
@@ -119,7 +117,7 @@ def surfacearea(request):
         context['r'] = r
         context['h'] = h
         print('Area=',area)
-    return render(request,'mathapp/math.html',context)
+    return render(request,'mathapp/math.html',context) 
 
     urls.py
 
@@ -134,12 +132,12 @@ urlpatterns = [
 ```
 
 ## SERVER SIDE PROCESSING:
-![Screenshot 2024-04-10 at 9 39 24 AM](https://github.com/Harshinisrini1910/MathServer/assets/161415847/56183c32-da60-4761-8ac4-b650cfffd7c4)
+![alt text](<Screenshot 2024-04-16 at 9.49.25 AM.png>)
 
 
 
 ## HOMEPAGE:
-![Screenshot 2024-04-10 at 9 38 47 AM](https://github.com/Harshinisrini1910/MathServer/assets/161415847/7de34cbd-3c6b-4bc6-a6d7-80d8845e5cad)
+![alt text](<Screenshot 2024-04-16 at 9.48.55 AM.png>)
 
 
 
